@@ -1,0 +1,19 @@
+{
+  "name": "css-brad-traversy",
+  "version": "1.0.0",
+  "description": "CSS Grid Layout With Image Span",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inesChebil/CSS-Grid-Layout-With-Image-Span.git"
+  },
+  "author": "ines chebil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inesChebil/CSS-Grid-Layout-With-Image-Span/issues"
+  },
+  "homepage": "https://github.com/inesChebil/CSS-Grid-Layout-With-Image-Span#readme"
+}
